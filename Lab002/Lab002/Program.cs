@@ -10,3 +10,11 @@ for (int i = 0; i < 5; i++)
 String cos = "def"; 
 cos = Console.ReadLine();
 Console.WriteLine(cos);
+
+static double GetAverage(int[] numbers)
+{
+    int sum = 0;
+    foreach ( var number in numbers)
+        sum += number;
+    return (double) sum / numbers.Length;
+}
