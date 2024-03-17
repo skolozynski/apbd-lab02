@@ -27,20 +27,23 @@ Console.WriteLine(average);
 
 static int GetMax(int[] numbers)
 {
-    int max = numbers[0];
+    int m = numbers[0];
     foreach (int n in numbers)
     {
-        if (n > max)
-            max = n;
+        if (n > m)
+            m = n;
     }
-    return max;
+    return m;
 }
 
 // TODO:
 /*
-1. Stwórz nowy branch feature-max
-2. Następnie zaimplementuj opisaną funkcjonalność dodająccommit'y na branch
-3. Na koniec wykonaj merge swojej gałęzi do gałęzi main. Tymrazem spróbuj wykonać merge wykorzystując rebase.
-4. Z pomocą komendy git log sprawdź jak wygląda historiarepozytorium
-5. Wszystkie zmiany powinny zostać wypchnięte do repozytoriumonline
+1. Stwórz nową gałąź feature-new
+2. Następnie będąc na nowo powstałej gałęzi spróbujzmodyfikować pętle pętle odpowiadającą za wyliczenie średniej.Możesz np. zmienić nazwę zmiennej wykorzystywanej w ramachpętli.
+3. Następnie wykonaj commit na gałęzi feature-new.
+4. W kolejnym kroku przełącz się na gałąź main i wykonaj innąmodyfikację tej samej pętli. Możesz np. zmienić nazwę zmiennejna jeszcze inną metodę.
+5. Wykonaj commit na gałęzi main.
+6. W ten sposób obie gałęzie różnią się między sobą. Dodatkowomodyfikowaliśmy ten sam kod na obu gałęziach. Taka sytuacjapowinna doprowadzić do konfliktu.
+7. Spróbuj wykonać merge swojej gałęzi z gałęzią main. Rozwiążkonflikt. Wykonaj push zmian na GitHub.
+8. Na koniec sprawdź historię swojego repozytorium poprzezkomendę git log.
 */

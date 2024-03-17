@@ -1,0 +1,53 @@
+* [33mcommit ab8aeea67d895749ad13095b7cbcf7bdb7f75d09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-max[m[33m, [m[1;31morigin/feature-max[m[33m)[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Sun Mar 17 16:06:21 2024 +0100
+[31m|[m 
+[31m|[m     Add GetMax method
+[31m|[m 
+* [33mcommit 36137e008214f08ebdd4135c72dd906eb8897424[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature-average[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:32:54 2024 +0100
+[31m|[m 
+[31m|[m     Implement method
+[31m|[m 
+* [33mcommit 57f36e4ffc8679fc1c5cafe599ce59586c1c5af4[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:30:47 2024 +0100
+[31m|[m 
+[31m|[m     Add GetAverage method
+[31m|[m 
+* [33mcommit 3cff3c520d2cce37cadb2d2acc054bdebe983a01[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:19:06 2024 +0100
+[31m|[m 
+[31m|[m     Modyfikacja 3
+[31m|[m 
+* [33mcommit 37123c17b79a96e1222d45e5ca57604571eec919[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:16:18 2024 +0100
+[31m|[m 
+[31m|[m     Modyfikacja 2
+[31m|[m 
+* [33mcommit f3fdde59ab4c261e3a9cf861c01da952c4774c50[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:15:26 2024 +0100
+[31m|[m 
+[31m|[m     Modyfikacja 1
+[31m|[m 
+* [33mcommit 427d91df38015e64c20decfc29072836b86b168a[m
+[31m|[m Author: Mateusz Skolozynski <mateusz.skolozynski15@gmail.com>
+[31m|[m Date:   Tue Mar 12 13:11:34 2024 +0100
+[31m|[m 
+[31m|[m     Initial Project
+[31m|[m 
+* [33mcommit a13e49e4dc80720473afb29b01d384d53111c0e8[m
+[31m|[m Author: s28008 <s28008@pjwstk.edu.pl>
+[31m|[m Date:   Tue Mar 12 12:41:49 2024 +0100
+[31m|[m 
+[31m|[m     Add .gitignore file
+[31m|[m 
+* [33mcommit 0cc2d81088943b0ff5768118684d63ece11a9f52[m
+  Author: skolozynski <43417695+skolozynski@users.noreply.github.com>
+  Date:   Tue Mar 12 12:32:28 2024 +0100
+  
+      Initial commit
